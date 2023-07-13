@@ -37,7 +37,7 @@ Create a `TaxiCompany` and `TaxiCar` class. This time let's do the requirements 
 - A taxi can be created without *immediately* joining a company
 - A taxi company can exist without any taxis
 - Each taxi knows how many jobs its driven
-- A taxi company knows the *total* jobs of all cars in its fleet
+-     A taxi company knows the *total* jobs of all cars in its fleet
 - A taxi can do a job, which lowers its gas and adds to it's total job count
 - A taxi can break down, meaning it can't drive
 - A taxi can run out of gas, meaning it can't drive
